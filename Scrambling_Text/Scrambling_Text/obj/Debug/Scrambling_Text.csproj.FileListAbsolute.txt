@@ -1,0 +1,12 @@
+C:\Users\Fredrik\git\C#_application_programming\Scrambling_Text\Scrambling_Text\bin\Debug\Scrambling_Text.exe.config
+C:\Users\Fredrik\git\C#_application_programming\Scrambling_Text\Scrambling_Text\bin\Debug\Scrambling_Text.exe
+C:\Users\Fredrik\git\C#_application_programming\Scrambling_Text\Scrambling_Text\bin\Debug\Scrambling_Text.pdb
+C:\Users\Fredrik\git\C#_application_programming\Scrambling_Text\Scrambling_Text\obj\Debug\Scrambling_Text.csproj.AssemblyReference.cache
+C:\Users\Fredrik\git\C#_application_programming\Scrambling_Text\Scrambling_Text\obj\Debug\Scrambling_Text.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fredrik\git\C#_application_programming\Scrambling_Text\Scrambling_Text\obj\Debug\Scrambling_Text.Properties.Resources.resources
+C:\Users\Fredrik\git\C#_application_programming\Scrambling_Text\Scrambling_Text\obj\Debug\Scrambling_Text.csproj.GenerateResource.cache
+C:\Users\Fredrik\git\C#_application_programming\Scrambling_Text\Scrambling_Text\obj\Debug\Scrambling_Text.csproj.CoreCompileInputs.cache
+C:\Users\Fredrik\git\C#_application_programming\Scrambling_Text\Scrambling_Text\obj\Debug\Scrambling_Text.exe
+C:\Users\Fredrik\git\C#_application_programming\Scrambling_Text\Scrambling_Text\obj\Debug\Scrambling_Text.pdb
+C:\Users\Fredrik\git\C#_application_programming\Scrambling_Text\Scrambling_Text\obj\Debug\Scrambling_Text.MainForm.resources
+C:\Users\Fredrik\git\C#_application_programming\Scrambling_Text\Scrambling_Text\obj\Debug\Scrambling_Text.ScramblingForm.resources
